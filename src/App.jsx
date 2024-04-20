@@ -1,9 +1,9 @@
 import React from 'react'
-import Landing from './pages/Landing'
+import Login from './pages/Login'
 const App = () => {
   return (
     <div>
-      <Landing/>
+      <Login/>
     </div>
   )
 }
