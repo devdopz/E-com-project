@@ -1,9 +1,9 @@
 import React from 'react'
-
+import Landing from './pages/Landing'
 const App = () => {
   return (
     <div>
-      <h1>App.jsx</h1>
+      <Landing/>
     </div>
   )
 }
